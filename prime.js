@@ -1,9 +1,9 @@
-   let num = 13;
-   let count =0;
-     for(let i=num;i<=0;i++){
-        count++;
+   let number = 13;
+   let counter =0;
+     for(let i=1;i<=number;i++){
+        counter++;
       }
-        if(count==2){
+        if(counter==2){
           console.log("No. is prime");
          }
         else {
