@@ -1,6 +1,6 @@
    let num = 13;
    let count =0;
-     for(let i=num;i<=0;i++){
+     for(let i=0;i<=num;i++){
         count++;
       }
         if(count==2){
